@@ -5,6 +5,8 @@ Registered users can perform multiple functionalities like sending friend reques
 users or decline a friend request received, upload posts which can be public or private, 
 upload or delete comments on public posts or posts of a user's friends, users can view his/her 
 own profile information.
+Technology used: NestJS
+Database used: PostgreSQL
 ```
 
 #### Commands to run the project
